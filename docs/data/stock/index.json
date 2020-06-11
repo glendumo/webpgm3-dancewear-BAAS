@@ -1,0 +1,322 @@
+[
+    {
+        "id": "b10413c22570465d8ef96fad1566e4df",
+        "brand": "Adidas",
+        "description": "rode Adidas T-shirt met korte mouwen",
+        "price": 19.90,
+        "primaryColor": "rood",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": false,
+                "size": "L"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportshirt"
+    },
+    {
+        "id": "9d4eb3e9fe104d6f9c2a6ad835bb4a3e",
+        "brand": "Nike",
+        "description": "zwarte trainingsbroek van Nike met witte streep langs zijkanten",
+        "price": 51.90,
+        "primaryColor": "zwart",
+        "sizes": [
+            {
+                "inStock": false,
+                "size": "S"
+            },
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": false,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportbroek"
+    },
+    {
+        "id": "466447db941d421492c92c8e8a6ea1f4",
+        "brand": "Adidas",
+        "description": "wit sportshirt van Adidas",
+        "price": 21.99,
+        "primaryColor": "wit",
+        "sizes": [
+            {
+                "inStock": false,
+                "size": "S"
+            },
+            {
+                "inStock": false,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportshirt"
+    },
+    {
+        "id": "3a472099736d4f99ad5f7515c5fd2078",
+        "brand": "Puma",
+        "description": "Blauwe Puma trainingsvest",
+        "price": 36.99,
+        "primaryColor": "blauw",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": false,
+                "size": "M"
+            },
+            {
+                "inStock": false,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            },
+            {
+                "inStock": true,
+                "size": "XXL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportvest"
+    },
+    {
+        "id": "05d060ac26a54ae5a15b120b698de375",
+        "brand": "Adidas",
+        "description": "zwarte trainingsbroek van Adidas met witte strepen langs zijkanten",
+        "price": 49.99,
+        "primaryColor": "zwart",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": false,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportbroek"
+    },
+    {
+        "id": "b11f1cf5b0b540a590e88c4d342400dd",
+        "brand": "Adidas",
+        "description": "rode hoodie van Adidas",
+        "price": 32.90,
+        "primaryColor": "rood",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sporttrui"
+    },
+    {
+        "id": "f927d24b4d624773817a25455772a9fb",
+        "brand": "Nike",
+        "description": "Grijze sporttop van Nike",
+        "price": 31.90,
+        "primaryColor": "grijs",
+        "sizes": [
+            {
+                "inStock": false,
+                "size": "S"
+            },
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sporttop"
+    },
+    {
+        "id": "a100b043b6da4ff284cbd8cb9d6e8aed",
+        "brand": "Nike",
+        "description": "Grijze sporttrui van Nike",
+        "price": 44.90,
+        "primaryColor": "grijs",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": false,
+                "size": "L"
+            },
+            {
+                "inStock": false,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sporttrui"
+    },
+    {
+        "id": "5855b9468f394af8bdf6c916d374452e",
+        "brand": "Nike",
+        "description": "Blauw sportshirt van Nike",
+        "price": 21.90,
+        "primaryColor": "blauw",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": false,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportshirt"
+    },
+    {
+        "id": "545f2c8117d9453fa341b9f63e68cdc9",
+        "brand": "Puma",
+        "description": "Rode sporttrui van Puma",
+        "price": 36.90,
+        "primaryColor": "rood",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": false,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sporttrui"
+    },
+    {
+        "id": "ef4a21b50505492e9259c9c6b5383b68",
+        "brand": "Puma",
+        "description": "Witte trainingsvest van Puma",
+        "price": 54.90,
+        "primaryColor": "wit",
+        "sizes": [
+            {
+                "inStock": false,
+                "size": "S"
+            },
+            {
+                "inStock": true,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            },
+            {
+                "inStock": false,
+                "size": "XL"
+            },
+            {
+                "inStock": true,
+                "size": "XXL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sportvest"
+    },
+    {
+        "id": "3255433b040843beb9417ffb5fbfc80a",
+        "brand": "Adidas",
+        "description": "Zwarte Adidas hoodie",
+        "price": 26.90,
+        "primaryColor": "zwart",
+        "sizes": [
+            {
+                "inStock": true,
+                "size": "S"
+            },
+            {
+                "inStock": false,
+                "size": "M"
+            },
+            {
+                "inStock": true,
+                "size": "L"
+            },
+            {
+                "inStock": true,
+                "size": "XL"
+            }
+        ],
+        "thumbnailURL": "url",
+        "type": "sporttrui"
+    }
+]
