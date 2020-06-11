@@ -19,7 +19,7 @@
                 "size": "L"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/rode-tshirt-adidas.jpg",
         "type": "sportshirt"
     },
     {
@@ -46,7 +46,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/zwarte-trainingsbroek-nike.jpg",
         "type": "sportbroek"
     },
     {
@@ -73,7 +73,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/wit-sportshirt-adidas.jpg",
         "type": "sportshirt"
     },
     {
@@ -104,7 +104,7 @@
                 "size": "XXL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/blauwe-sporttrui-puma.jpg",
         "type": "sportvest"
     },
     {
@@ -131,7 +131,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/zwarte-trainingsbroek-adidas.jpg",
         "type": "sportbroek"
     },
     {
@@ -158,7 +158,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/rode-hoodie-adidas.jpg",
         "type": "sporttrui"
     },
     {
@@ -181,8 +181,8 @@
                 "size": "L"
             }
         ],
-        "thumbnailURL": "url",
-        "type": "sporttop"
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/grijze-sportshirt-nike.jpg",
+        "type": "sportshirt"
     },
     {
         "id": "a100b043b6da4ff284cbd8cb9d6e8aed",
@@ -204,7 +204,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/grijze-sporttrui-nike.jpg",
         "type": "sporttrui"
     },
     {
@@ -231,7 +231,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/blauw-sportshirt-nike.jpg",
         "type": "sportshirt"
     },
     {
@@ -258,7 +258,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/rode-sporttrui-puma.jpg",
         "type": "sporttrui"
     },
     {
@@ -289,7 +289,7 @@
                 "size": "XXL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/",
         "type": "sportvest"
     },
     {
@@ -316,7 +316,7 @@
                 "size": "XL"
             }
         ],
-        "thumbnailURL": "url",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/zwarte-hoodie-adidas.jpg",
         "type": "sporttrui"
     }
 ]
