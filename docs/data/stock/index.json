@@ -3,7 +3,7 @@
         "id": "b10413c22570465d8ef96fad1566e4df",
         "brand": "Adidas",
         "description": "rode Adidas T-shirt met korte mouwen",
-        "price": 19.90,
+        "price": 19.99,
         "primaryColor": "rood",
         "sizes": [
             {
@@ -26,7 +26,7 @@
         "id": "9d4eb3e9fe104d6f9c2a6ad835bb4a3e",
         "brand": "Nike",
         "description": "zwarte trainingsbroek van Nike met witte streep langs zijkanten",
-        "price": 51.90,
+        "price": 51.99,
         "primaryColor": "zwart",
         "sizes": [
             {
@@ -138,7 +138,7 @@
         "id": "b11f1cf5b0b540a590e88c4d342400dd",
         "brand": "Adidas",
         "description": "rode hoodie van Adidas",
-        "price": 32.90,
+        "price": 32.99,
         "primaryColor": "rood",
         "sizes": [
             {
@@ -165,7 +165,7 @@
         "id": "f927d24b4d624773817a25455772a9fb",
         "brand": "Nike",
         "description": "Grijze sporttop van Nike",
-        "price": 31.90,
+        "price": 31.99,
         "primaryColor": "grijs",
         "sizes": [
             {
@@ -188,7 +188,7 @@
         "id": "a100b043b6da4ff284cbd8cb9d6e8aed",
         "brand": "Nike",
         "description": "Grijze sporttrui van Nike",
-        "price": 44.90,
+        "price": 44.99,
         "primaryColor": "grijs",
         "sizes": [
             {
@@ -211,7 +211,7 @@
         "id": "5855b9468f394af8bdf6c916d374452e",
         "brand": "Nike",
         "description": "Blauw sportshirt van Nike met korte mouwen",
-        "price": 21.90,
+        "price": 21.99,
         "primaryColor": "blauw",
         "sizes": [
             {
@@ -238,7 +238,7 @@
         "id": "545f2c8117d9453fa341b9f63e68cdc9",
         "brand": "Puma",
         "description": "Rode sporttrui van Puma",
-        "price": 36.90,
+        "price": 36.99,
         "primaryColor": "rood",
         "sizes": [
             {
@@ -265,7 +265,7 @@
         "id": "ef4a21b50505492e9259c9c6b5383b68",
         "brand": "Puma",
         "description": "Witte trainingsvest van Puma",
-        "price": 54.90,
+        "price": 54.99,
         "primaryColor": "wit",
         "sizes": [
             {
@@ -296,7 +296,7 @@
         "id": "3255433b040843beb9417ffb5fbfc80a",
         "brand": "Adidas",
         "description": "Zwarte Adidas hoodie",
-        "price": 26.90,
+        "price": 26.99,
         "primaryColor": "zwart",
         "sizes": [
             {
