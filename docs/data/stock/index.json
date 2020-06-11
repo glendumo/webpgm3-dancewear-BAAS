@@ -79,7 +79,7 @@
     {
         "id": "3a472099736d4f99ad5f7515c5fd2078",
         "brand": "Puma",
-        "description": "Blauwe Puma trainingsvest",
+        "description": "Blauwe trainingsvest van Puma",
         "price": 36.99,
         "primaryColor": "blauw",
         "sizes": [
@@ -210,7 +210,7 @@
     {
         "id": "5855b9468f394af8bdf6c916d374452e",
         "brand": "Nike",
-        "description": "Blauw sportshirt van Nike",
+        "description": "Blauw sportshirt van Nike met korte mouwen",
         "price": 21.90,
         "primaryColor": "blauw",
         "sizes": [
@@ -289,7 +289,7 @@
                 "size": "XXL"
             }
         ],
-        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/",
+        "thumbnailURL": "https://glendumo.github.io/webpgm3-dancewear-BAAS/static/stock/images/witte-trainingsvest-puma.jpg",
         "type": "sportvest"
     },
     {
